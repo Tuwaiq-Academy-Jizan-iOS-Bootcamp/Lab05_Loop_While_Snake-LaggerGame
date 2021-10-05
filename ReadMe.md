@@ -1,15 +1,18 @@
-Day1-HomeWork00-XcodeOverview
+# Lab05_Loop_While_SnakeLaggerGame
 
 ###  Topics
 
-Xcode setup and use all Command Line we learn to push your project on GitHub
+Create your own first game with Swift ! 
 
 ### Description
 
-* Setup Xcode on your Mac
-* Create a new project
-* Display your name on the screen
-* Upload to this repo as a PR
+The rules of the game are as follows:
+
+* The board has 25 squares, and the aim is to land on or beyond square 25.
+* The player’s starting square is “square zero”, which is just off the bottom-left corner of the board.
+* Each turn, you roll a six-sided dice and move by that number of squares, following the horizontal path indicated by the dotted arrow above.
+* If your turn ends at the bottom of a ladder, you move up that ladder.
+* If your turn ends at the head of a snake, you move down that snake.
 
 ### DeadLine
 
@@ -17,15 +20,5 @@ Sunday 11 October
 
 ### Ressources
 
-Steps to upload your work on GitHub
+<img width="656" alt="Capture d’écran 2021-10-05 à 13 52 58" src="https://user-images.githubusercontent.com/6766037/136010844-b4c90dc7-1b36-48ce-b54e-3f803ec72313.png">
 
-* Create account in GitHub with your real name (MohammedAlkamdi)
-* Fork this repo into your GitHub account by clicking the fork button
-* Clone the repo (from your account after forking it)
-* git clone "put the link of your repository"
-* Add the Xcode project to the repo folder after cloning it
-* Then create a new copy usning:
-* git add .
-* git commit -m "Some message"
-* git push
-* Create pull request to the tuwaiq-ios repository from GitHub website
