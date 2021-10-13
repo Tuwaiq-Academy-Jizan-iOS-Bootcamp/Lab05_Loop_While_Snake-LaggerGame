@@ -16,7 +16,7 @@ The rules of the game are as follows:
 
 ### DeadLine
 
-Sunday 11 October
+Thusday 13 October
 
 ### Ressources
 
